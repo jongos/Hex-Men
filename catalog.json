@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "title": "Hex Men",
+  "repository": "https://github.com/jongos/Hex-Men",
+  "purpose": "Directory of independent projects; not an installation or orchestration manifest",
+  "verified_on": "2026-10-23",
+  "projects": [
+    {
+      "name": "Dazzler",
+      "repository": "https://github.com/jongos/Dazzler",
+      "default_branch": "main",
+      "visibility_at_verification": "public",
+      "role": "Create and refine expressive visual interfaces",
+      "status": "Public skill with documented installation options",
+      "entrypoint": "README.md",
+      "skill": {"name": "dazzler-frontend", "path": "skills/dazzler-frontend/SKILL.md"}
+    },
+    {
+      "name": "Longshot",
+      "repository": "https://github.com/jongos/Longshot",
+      "default_branch": "main",
+      "visibility_at_verification": "public",
+      "role": "Independently test rendered UI tasks and provide replayable evidence",
+      "status": "Public review skill; agent inspection is not human research",
+      "entrypoint": "README.md",
+      "skill": {"name": "longshot-human-centered-ui", "path": "skills/longshot-human-centered-ui/SKILL.md"}
+    },
+    {
+      "name": "Style Science",
+      "repository": "https://github.com/jongos/style-science",
+      "default_branch": "main",
+      "visibility_at_verification": "public",
+      "role": "Provide inspectable design reasoning, constraints and evidence",
+      "status": "GDC-0 early engineering prototype; not a validated design-quality model",
+      "entrypoint": "README.md",
+      "skill": null
+    },
+    {
+      "name": "Spiral",
+      "repository": "https://github.com/jongos/Spiral",
+      "default_branch": "main",
+      "visibility_at_verification": "private",
+      "role": "Rehearse role-limited asynchronous workflows before building",
+      "status": "Research-informed draft; structural review only, no human efficacy validation",
+      "entrypoint": "README.md",
+      "skill": {"name": "spiral-workflow-rehearsal", "path": "skills/spiral-workflow-rehearsal/SKILL.md"}
+    },
+    {
+      "name": "Shatterstar",
+      "repository": "https://github.com/jongos/Shatterstar",
+      "default_branch": "main",
+      "visibility_at_verification": "private",
+      "role": "Propose reversible evidence-backed simplification while preserving important tasks",
+      "status": "Research-informed draft; structural review only, no human efficacy validation",
+      "entrypoint": "README.md",
+      "skill": {"name": "shatterstar-product-simplification", "path": "skills/shatterstar-product-simplification/SKILL.md"}
+    }
+  ]
+}
