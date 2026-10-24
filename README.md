@@ -12,6 +12,20 @@ Hex(idecimal) Men brings together seven independent skills and tools for AI agen
 
 Your villains: confusing interfaces, dropped handoffs, feature bloat, workspace mysteries and copy that takes three paragraphs to say “Done.”
 
+## The Problem
+
+Making a digital product takes many different jobs: designing it, checking its reasoning, testing it, working out how work passes between people, trimming it, writing its words and keeping the developer workspace tidy.
+
+Each job needs a different kind of help.
+
+## What This Does About It
+
+Hex Men is a directory of seven separate projects. Each one helps with a single job. Use one on its own, or carry what one finds into the next. None of them depends on another.
+
+Most are skills: folders of instructions you add to an AI agent. Style Science and Colossus also include programming tools.
+
+**Example.** In the README’s made-up example, an approval screen never tells the person who asked what the result was. Spiral spots the missing step. Dazzler designs a clear status. Longshot walks through the journey. Mojo writes the line people need: “Approved. Your final version is ready.”
+
 ## Meet the Team
 
 | Recruit | Signature Power | Send Them In When… |
@@ -65,6 +79,25 @@ Keep the facts and personality. Cut repetition and needless caveats.
 ```
 
 [Browse the landing page](docs/index.html) · [Project catalog](catalog.json) · [Detailed collection reference](REFERENCE.md)
+
+## Part of the Hex Men Collection
+
+[Hex Men](https://github.com/jongos/Hex-Men) is a directory of independent projects by Jon Gosier. Each project stands on its own; these are its members.
+
+| Project | What It Does |
+|---|---|
+| **Hex Men** (this repository) | Directory of independent projects |
+| [Dazzler](https://github.com/jongos/Dazzler) | Create and refine expressive visual interfaces |
+| [Longshot](https://github.com/jongos/Longshot) | Independently test rendered UI tasks and provide replayable evidence |
+| [Style Science](https://github.com/jongos/style-science) | Provide inspectable design reasoning, constraints and evidence |
+| [Spiral](https://github.com/jongos/Spiral) | Rehearse role-limited asynchronous workflows before building |
+| [Shatterstar](https://github.com/jongos/Shatterstar) | Propose reversible evidence-backed simplification while preserving important tasks |
+| [Mojo](https://github.com/jongos/Mojo) | Remove repetition, needless nuance and overly cautious language from AI outputs |
+| [Colossus](https://github.com/jongos/Colossus) | Inventory selected developer workspaces read-only and surface evidence-backed questions |
+
+## License
+
+Created by Jon Gosier. Original work is Apache-2.0; bundled fonts retain their own licenses and attribution (see `docs/fonts/`). See [LICENSE](LICENSE).
 
 ## Secret Identity
 
