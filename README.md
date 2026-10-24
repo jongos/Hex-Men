@@ -47,13 +47,13 @@ That’s a team-up you direct. Hex Men is a directory of independent projects; c
 
 | Your Mission | Your First Recruit |
 |---|---|
-| “Make this look like *our* product.” | [Dazzler](https://github.com/jongos/Dazzler#start-with-the-outcome) |
-| “Can someone actually finish this task?” | [Longshot](https://github.com/jongos/Longshot#give-it-a-goal) |
-| “How do we check this design decision?” | [Style Science](https://github.com/jongos/style-science#try-the-core) |
-| “Where does this workflow lose people?” | [Spiral](https://github.com/jongos/Spiral#rehearse-a-workflow) |
-| “What can we simplify without breaking the job?” | [Shatterstar](https://github.com/jongos/Shatterstar#make-the-case-for-simplification) |
-| “Can we just say what we mean?” | [Mojo](https://github.com/jongos/Mojo#use-mojo) |
-| “What’s in this workspace, and what needs investigation?” | [Colossus](https://github.com/jongos/Colossus#build-and-use) |
+| “Agent skill that helps agents product design work that doesn't feel 'AI'.” | [Dazzler](https://github.com/jongos/Dazzler#start-with-the-outcome) |
+| “An agent skill that helps it test your apps like a person.” | [Longshot](https://github.com/jongos/Longshot#give-it-a-goal) |
+| “The foundational 'science' behind various design tools.” | [Style Science](https://github.com/jongos/style-science#try-the-core) |
+| “Workflow testing with arms.” | [Spiral](https://github.com/jongos/Spiral#rehearse-a-workflow) |
+| “Cut through the noise by finding what can be eliminated from a design.” | [Shatterstar](https://github.com/jongos/Shatterstar#make-the-case-for-simplification) |
+| “Copy-controls that reduce AI redundancy and 'slop'.” | [Mojo](https://github.com/jongos/Mojo#use-mojo) |
+| “Heavy duty cleanup behind your projects. What files can be moved out of the way?” | [Colossus](https://github.com/jongos/Colossus#build-and-use) |
 
 Dazzler, Longshot, Spiral, Shatterstar and Mojo are agent skills. Follow each repository’s setup instructions for your compatible agent. Style Science provides JavaScript and Python tools. Colossus pairs a Rust CLI with a Codex/Claude skill; its experimental Phase 1 scanner currently supports Windows only.
 
