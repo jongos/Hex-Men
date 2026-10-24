@@ -15,7 +15,6 @@ Hex Men is a suite of design, UI/UX and design thinking skills for ai agents. Ch
 | Explain and check a design decision | [Style Science](https://github.com/jongos/style-science) | Inspectable requirements, constraints and evidence |
 | Find handoff gaps before building | [Spiral](https://github.com/jongos/Spiral) | Role-limited workflow traces, ownership gaps and recovery requirements |
 | Remove complexity without losing the job | [Shatterstar](https://github.com/jongos/Shatterstar) | Task-preserving proposals with tradeoffs and reversible next steps |
-
 | Make AI outputs clear and direct | [Mojo](https://github.com/jongos/Mojo) | Less repetition, needless nuance and overly cautious language |
 
 ## See How They Connect
