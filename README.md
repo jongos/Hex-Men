@@ -6,9 +6,9 @@
 
 Every product has an origin story. Too many end with twelve tabs, a mystery button and “We’re delighted to inform you that your request may have been successfully submitted.”
 
-**Time to assemble the Hex Men.**
+**Time to assemble the Hex Men!**
 
-Created by Jon Gosier, Hex Men brings together seven independent skills and tools for AI agents: design with character, inspectable design decisions, UI/UX testing, workflow rehearsal, product simplification, sharper writing and developer-workspace audits.
+Hex(idecimal) Men brings together seven independent skills and tools for AI agents: design with character, inspectable design decisions, UI/UX testing, workflow rehearsal, product simplification, sharper writing and developer-workspace audits.
 
 Your villains: confusing interfaces, dropped handoffs, feature bloat, workspace mysteries and copy that takes three paragraphs to say “Done.”
 
@@ -28,7 +28,7 @@ Your villains: confusing interfaces, dropped handoffs, feature bloat, workspace 
 
 **Training scenario: an approval flow with a disappearing ending.**
 
-A requester submits work. An approver approves it. The interface says “Success.” The requester still has no idea what happened.
+The Hex suite is largely for  working on design projects: app development, document creation, front-end engineering, UI designs, and the related copy. Each of these skills are designed to help make agent work feel more human. Each skill takes an approach based on design principles and take a computational approach to design instead of being trained 'copying' existing websites.  
 
 Here’s how the team could tackle it:
 
@@ -63,16 +63,6 @@ Already installed Mojo? Try:
 Use $mojo-language to rewrite this product overview.
 Keep the facts and personality. Cut repetition and needless caveats.
 ```
-
-## Powers With Receipts
-
-The comic-book energy is for the introduction. The work comes with evidence.
-
-Longshot reports agent-observed behavior, not human research. Style Science’s GDC is an early engineering prototype for checking declared requirements, not a validated score for design quality. Spiral and Shatterstar provide research-informed methods; their effectiveness has not been validated in human studies.
-
-Colossus reports an inventory, not permission to delete. Linux and macOS scanning are future work, and no redistribution license has been selected for its public source.
-
-Use the findings, inspect the evidence and test the proposed changes.
 
 [Browse the landing page](docs/index.html) · [Project catalog](catalog.json) · [Detailed collection reference](REFERENCE.md)
 
