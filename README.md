@@ -4,7 +4,7 @@
 
 **Six projects. Different questions. A shared interest in better work.**
 
-Hex Men is the home of a complementary collection by Jon Gosier. Choose a tool for creating an interface, reasoning about its constraints, testing a rendered task, rehearsing a workflow, simplifying a product or sharpening AI outputs.
+Hex Men is a suite of design, UI/UX and design thinking skills for ai agents. Choose a tool for creating an interface, reasoning about its constraints, testing a rendered task, rehearsing a workflow, improving marketing, simplify a product's UX or sharpen AI outputs.
 
 ## Choose Your Question
 
