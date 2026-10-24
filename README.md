@@ -1,3 +1,5 @@
+![Hex Men — Five Projects. Distinct Roles.](docs/readme-banner.svg)
+
 # Hex Men
 
 A master hub for five independent projects by Jon Gosier: creating interfaces, inspecting design reasoning, testing rendered experiences, rehearsing workflows and evaluating simplification.
@@ -36,3 +38,11 @@ For Style Science, begin with its README and integration documentation. There is
 [catalog.json](catalog.json) is a small machine-readable directory, not an installation manifest. `skill` is null for Style Science; it does not invent a skill entrypoint. Verification dates describe the recorded snapshot, not continuous monitoring. Branch links follow upstream changes and are not version pins.
 
 Keep source, issues and releases in the individual repositories. To update this hub, verify each repository's canonical URL, default branch, entrypoint/frontmatter and stated status; update the table and catalog together. Do not copy source packages into this repository or infer shared licensing or compatibility from membership.
+
+## Landing Page Source
+
+[Preview source](docs/index.html) · [Design notes](docs/DESIGN.md). The responsive static page is checked in but not publicly deployed. To preview a local checkout with Python available, run `python -m http.server 8000 --bind 127.0.0.1 --directory docs` and open `http://127.0.0.1:8000`. No installation is needed for the site itself.
+
+The page uses original vector illustrations and locally bundled Inter and League Gothic fonts, with their notices in `docs/fonts/`. Public hosting or Pages configuration requires a separate publication decision; repository visibility remains unchanged.
+
+[Desktop preview](docs/previews/desktop.jpg) · [Mobile preview](docs/previews/mobile.jpg) · [Validation scope](docs/VALIDATION.md)
