@@ -17,9 +17,9 @@ Hex Men is a suite of design and UI/UX skills and tools for AI agents, created b
 | Remove complexity without losing the job | [Shatterstar](https://github.com/jongos/Shatterstar) | Simplification proposals with task checks and rollback plans |
 | Make AI outputs clear and direct | [Mojo](https://github.com/jongos/Mojo) | Less repetition, needless nuance and overly cautious language |
 
-## See How They Connect
+## How They Connect
 
-Imagine an approval service. **Spiral** asks whether the requester learns that approval is complete. **Dazzler** shapes the interface. **Style Science** makes its requirements inspectable. **Longshot** tries the rendered task and checks the outcome. **Shatterstar** considers whether duplicate status views can be combined without losing retrieval or recovery. **Mojo** makes the copy and agent updates clear and direct.
+Imagine an approval service. **Spiral** asks whether the requester learns that approval is complete. **Dazzler** shapes the interface, styles documents, and helps design documents that don't look AI generated. **Style Science** makes design requirements inspectable, laying a framework for design experimentation within bounds. **Longshot** tries UI/UX tasks and checks the outcomes, giving you an agentic way to improve usability of your apps and web sites. **Shatterstar** considers whether design content is redundant, unnecessary or repetitive without losing retrieval or recovery. In other words it helps streamline interface design and get rid of 'bloat'. **Mojo** is focused on text/copy and helps agents write more clearly and directly.
 
 Choose the tool that fits your task, or use findings from one to guide another.
 
