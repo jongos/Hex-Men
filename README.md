@@ -20,13 +20,11 @@ Hex Men is the home of a complementary collection by Jon Gosier. Choose a tool f
 
 Imagine an approval service. **Spiral** asks whether the requester learns that approval is complete. **Dazzler** shapes the interface. **Style Science** makes its requirements inspectable. **Longshot** tries the rendered task and checks the outcome. **Shatterstar** considers whether duplicate status views can be combined without losing retrieval or recovery.
 
-Start wherever your question begins. These projects overlap in their concern for useful experiences, but each contributes a distinct kind of work. They are optional companions, not an automatic pipeline.
+Start wherever your question begins. These projects overlap in their concern for useful experiences, but each contributes a distinct kind of work. Choose them individually or combine their findings.
 
 ## Get Started
 
-Open a project's repository for its usage instructions. Dazzler, Longshot, Spiral and Shatterstar provide agent skills; Style Science is a design reasoning and constraint toolkit. Hex Men is the directory, not a universal installer.
-
-Spiral and Shatterstar are research-informed drafts with no human efficacy validation. Their repositories require access. Passing checks or an agent review does not establish human usability.
+Open a project's repository for its usage instructions. Dazzler, Longshot, Spiral and Shatterstar provide agent skills; Style Science is a design reasoning and constraint toolkit. Hex Men helps you find the right entrypoint.
 
 [Browse the landing page](docs/index.html) · [Project catalog](catalog.json) · [Detailed collection reference](REFERENCE.md)
 
