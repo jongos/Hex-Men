@@ -2,9 +2,9 @@
 
 # Hex Men
 
-**Five projects. Different questions. A shared interest in better work.**
+**Six projects. Different questions. A shared interest in better work.**
 
-Hex Men is the home of a complementary collection by Jon Gosier. Choose a tool for creating an interface, reasoning about its constraints, testing a rendered task, rehearsing a workflow or simplifying a product.
+Hex Men is the home of a complementary collection by Jon Gosier. Choose a tool for creating an interface, reasoning about its constraints, testing a rendered task, rehearsing a workflow, simplifying a product or sharpening AI outputs.
 
 ## Choose Your Question
 
@@ -16,15 +16,19 @@ Hex Men is the home of a complementary collection by Jon Gosier. Choose a tool f
 | Find handoff gaps before building | [Spiral](https://github.com/jongos/Spiral) | Role-limited workflow traces, ownership gaps and recovery requirements |
 | Remove complexity without losing the job | [Shatterstar](https://github.com/jongos/Shatterstar) | Task-preserving proposals with tradeoffs and reversible next steps |
 
+| Make AI outputs clear and direct | [Mojo](https://github.com/jongos/Mojo) | Less repetition, needless nuance and overly cautious language |
+
 ## See How They Connect
 
-Imagine an approval service. **Spiral** asks whether the requester learns that approval is complete. **Dazzler** shapes the interface. **Style Science** makes its requirements inspectable. **Longshot** tries the rendered task and checks the outcome. **Shatterstar** considers whether duplicate status views can be combined without losing retrieval or recovery.
+Imagine an approval service. **Spiral** asks whether the requester learns that approval is complete. **Dazzler** shapes the interface. **Style Science** makes its requirements inspectable. **Longshot** tries the rendered task and checks the outcome. **Shatterstar** considers whether duplicate status views can be combined without losing retrieval or recovery. **Mojo** makes the copy and agent updates clear and direct.
 
 Start wherever your question begins. These projects overlap in their concern for useful experiences, but each contributes a distinct kind of work. Choose them individually or combine their findings.
 
 ## Get Started
 
-Open a project's repository for its usage instructions. Dazzler, Longshot, Spiral and Shatterstar provide agent skills; Style Science is a design reasoning and constraint toolkit. Hex Men helps you find the right entrypoint.
+Open a project's repository for its usage instructions. Dazzler, Longshot, Spiral, Shatterstar and Mojo provide agent skills; Style Science is a design reasoning and constraint toolkit. Hex Men helps you find the right entrypoint.
+
+To use Mojo after installation: `Use $mojo-language to cut repetition, needless nuance and overly cautious language from this output.`
 
 [Browse the landing page](docs/index.html) · [Project catalog](catalog.json) · [Detailed collection reference](REFERENCE.md)
 

@@ -10,3 +10,11 @@ Checked on 2026-10-24 against the saved static source using local Chrome preview
 - No application behavior, skill efficacy or human usability study was tested. No public deployment, Pages setting or repository visibility was changed.
 
 Canonical skill files were excluded from the site/README commit. Font copyright and license notices remain in fonts/. Original illustrations contain only fictional or conceptual material.
+
+## Mojo Addition — 2026-10-24
+
+Added Mojo as the sixth project in the README, catalog, and static landing page. Updated the diagram and banner to six roles. The other project entries retain their prior verification dates.
+
+Rendered the saved page in headless Chrome at 1440, 390, and 320 pixels wide; all showed six project links and no horizontal overflow. Inspected the desktop page and mobile Mojo card. Captures and structural results are in `previews/mojo-*`. Existing previews above describe the earlier five-project revision.
+
+This update publishes repository source, not a hosted website.

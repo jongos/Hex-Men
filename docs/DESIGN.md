@@ -2,7 +2,7 @@
 
 ## Direction
 
-Five Projects. Distinct Roles. The page uses a typographic directory on dark plum with five nodes to make the independent roles easy to compare. Body text uses locally bundled Inter; League Gothic supplies compact display typography. Graphics are original SVGs, not character artwork.
+Six Projects. Distinct Roles. The page uses a typographic directory on dark plum with six nodes to make the independent roles easy to compare. Body text uses locally bundled Inter; League Gothic supplies compact display typography. Graphics are original SVGs, not character artwork.
 
 ## Scope
 

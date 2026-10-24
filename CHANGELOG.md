@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-10-24 - Mojo
+
+**Added:** Mojo, a language skill that cuts repetition, needless nuance and overly cautious wording from AI outputs. Linked its source, skill entrypoint and usage from the collection.
+
+**Changed:** Updated the catalog, README, detailed reference, landing page and artwork to six projects while retaining the latest marketing-copy edits.
+
+**Why:** Give the collection a focused tool for clear product copy, answers, instructions and agent updates.
+
+**Validation:** Mojo's final 28-case agent evaluation passed its supplied rubric. Its installed package matches the published skill. The merged collection page was checked at 1440, 390 and 320 pixels wide with six project links and no horizontal overflow; desktop and mobile captures were reviewed.
+
 ## 2026-10-24 - Focused Marketing Copy
 
 **Changed:** Removed repeated maturity labels and research disclaimers from the README and landing page. Kept purpose, uses, companion roles and operational instructions. Existing follow-up-review explanations remain intact.

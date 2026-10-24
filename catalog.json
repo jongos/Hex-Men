@@ -13,7 +13,10 @@
       "role": "Create and refine expressive visual interfaces",
       "status": "Public skill with documented installation options",
       "entrypoint": "README.md",
-      "skill": {"name": "dazzler-frontend", "path": "skills/dazzler-frontend/SKILL.md"}
+      "skill": {
+        "name": "dazzler-frontend",
+        "path": "skills/dazzler-frontend/SKILL.md"
+      }
     },
     {
       "name": "Longshot",
@@ -23,7 +26,10 @@
       "role": "Independently test rendered UI tasks and provide replayable evidence",
       "status": "Public review skill; agent inspection is not human research",
       "entrypoint": "README.md",
-      "skill": {"name": "longshot-human-centered-ui", "path": "skills/longshot-human-centered-ui/SKILL.md"}
+      "skill": {
+        "name": "longshot-human-centered-ui",
+        "path": "skills/longshot-human-centered-ui/SKILL.md"
+      }
     },
     {
       "name": "Style Science",
@@ -43,7 +49,10 @@
       "role": "Rehearse role-limited asynchronous workflows before building",
       "status": "Research-informed draft; structural review only, no human efficacy validation",
       "entrypoint": "README.md",
-      "skill": {"name": "spiral-workflow-rehearsal", "path": "skills/spiral-workflow-rehearsal/SKILL.md"}
+      "skill": {
+        "name": "spiral-workflow-rehearsal",
+        "path": "skills/spiral-workflow-rehearsal/SKILL.md"
+      }
     },
     {
       "name": "Shatterstar",
@@ -53,7 +62,24 @@
       "role": "Propose reversible evidence-backed simplification while preserving important tasks",
       "status": "Research-informed draft; structural review only, no human efficacy validation",
       "entrypoint": "README.md",
-      "skill": {"name": "shatterstar-product-simplification", "path": "skills/shatterstar-product-simplification/SKILL.md"}
+      "skill": {
+        "name": "shatterstar-product-simplification",
+        "path": "skills/shatterstar-product-simplification/SKILL.md"
+      }
+    },
+    {
+      "name": "Mojo",
+      "repository": "https://github.com/jongos/Mojo",
+      "default_branch": "main",
+      "visibility_at_verification": "public",
+      "verified_on": "2026-10-24",
+      "role": "Remove repetition, needless nuance and overly cautious language from AI outputs",
+      "status": "Public writing skill",
+      "entrypoint": "README.md",
+      "skill": {
+        "name": "mojo-language",
+        "path": "skills/mojo-language/SKILL.md"
+      }
     }
   ]
 }
