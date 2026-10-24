@@ -45,7 +45,8 @@
       "name": "Spiral",
       "repository": "https://github.com/jongos/Spiral",
       "default_branch": "main",
-      "visibility_at_verification": "private",
+      "visibility_at_verification": "public",
+      "verified_on": "2026-10-24",
       "role": "Rehearse role-limited asynchronous workflows before building",
       "status": "Research-informed draft; structural review only, no human efficacy validation",
       "entrypoint": "README.md",
@@ -58,7 +59,8 @@
       "name": "Shatterstar",
       "repository": "https://github.com/jongos/Shatterstar",
       "default_branch": "main",
-      "visibility_at_verification": "private",
+      "visibility_at_verification": "public",
+      "verified_on": "2026-10-24",
       "role": "Propose reversible evidence-backed simplification while preserving important tasks",
       "status": "Research-informed draft; structural review only, no human efficacy validation",
       "entrypoint": "README.md",
@@ -79,6 +81,20 @@
       "skill": {
         "name": "mojo-language",
         "path": "skills/mojo-language/SKILL.md"
+      }
+    },
+    {
+      "name": "Colossus",
+      "repository": "https://github.com/jongos/Colossus",
+      "default_branch": "main",
+      "visibility_at_verification": "public",
+      "verified_on": "2026-10-24",
+      "role": "Inventory selected developer workspaces read-only and surface evidence-backed questions",
+      "status": "Experimental Windows-first read-only milestone 7 (v0.7.0); every candidate remains protected",
+      "entrypoint": "README.md",
+      "skill": {
+        "name": "colossus",
+        "path": "skills/colossus/SKILL.md"
       }
     }
   ]
