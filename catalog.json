@@ -45,27 +45,29 @@
       "name": "Spiral",
       "repository": "https://github.com/jongos/Spiral",
       "default_branch": "main",
-      "visibility_at_verification": "private",
+      "visibility_at_verification": "public",
       "role": "Rehearse role-limited asynchronous workflows before building",
       "status": "Research-informed draft; structural review only, no human efficacy validation",
       "entrypoint": "README.md",
       "skill": {
         "name": "spiral-workflow-rehearsal",
         "path": "skills/spiral-workflow-rehearsal/SKILL.md"
-      }
+      },
+      "verified_on": "2026-10-30"
     },
     {
       "name": "Shatterstar",
       "repository": "https://github.com/jongos/Shatterstar",
       "default_branch": "main",
-      "visibility_at_verification": "private",
+      "visibility_at_verification": "public",
       "role": "Propose reversible evidence-backed simplification while preserving important tasks",
       "status": "Research-informed draft; structural review only, no human efficacy validation",
       "entrypoint": "README.md",
       "skill": {
         "name": "shatterstar-product-simplification",
         "path": "skills/shatterstar-product-simplification/SKILL.md"
-      }
+      },
+      "verified_on": "2026-10-30"
     },
     {
       "name": "Mojo",
@@ -80,6 +82,20 @@
         "name": "mojo-language",
         "path": "skills/mojo-language/SKILL.md"
       }
+    },
+    {
+      "name": "Colossus",
+      "repository": "https://github.com/jongos/Colossus",
+      "default_branch": "main",
+      "role": "Audit selected developer workspaces and support restricted user-approved exact-file cleanup",
+      "status": "Experimental Rust CLI and Codex/Claude skill; v0.9.0 supports permanent exact-file deletion on local Windows NTFS with fresh plan approval. Audit and portable metadata survey remain read-only. No redistribution license selected.",
+      "entrypoint": "README.md",
+      "skill": {
+        "name": "colossus",
+        "path": "skills/colossus/SKILL.md"
+      },
+      "visibility_at_verification": "public",
+      "verified_on": "2026-10-30"
     }
   ]
 }

@@ -2,11 +2,11 @@
 
 [Return to Hex Men](README.md).
 
-![Hex Men — Six Projects. Distinct Roles.](docs/readme-banner.svg)
+![Hex Men â€” Seven Projects. Distinct Roles.](docs/readme-banner.svg)
 
 # Hex Men
 
-A master hub for six independent projects by Jon Gosier: creating interfaces, inspecting design reasoning, testing rendered experiences, rehearsing workflows, evaluating simplification and sharpening language.
+A master hub for seven independent projects by Jon Gosier: creating interfaces, inspecting design reasoning, testing rendered experiences, rehearsing workflows, evaluating simplification sharpening language and auditing developer workspaces with restricted approved cleanup.
 
 Hex Men is a playful nod to X-Men, whose character names inspired the collection. This is an independent collection with no official Marvel affiliation or endorsement. The collection name does not assign a character origin to every project.
 
@@ -17,12 +17,14 @@ Hex Men is a playful nod to X-Men, whose character names inspired the collection
 | [Dazzler](https://github.com/jongos/Dazzler) | Create and refine expressive visual interfaces through typography, color and composition; also supports visual documents and slides. | [`dazzler-frontend`](https://github.com/jongos/Dazzler/blob/main/skills/dazzler-frontend/SKILL.md). Public skill with documented installation options. |
 | [Longshot](https://github.com/jongos/Longshot) | Independently attempt tasks in rendered interfaces and return reproducible findings with replayable evidence. | [`longshot-human-centered-ui`](https://github.com/jongos/Longshot/blob/main/skills/longshot-human-centered-ui/SKILL.md). Public review skill; agent inspection does not replace human research. |
 | [Style Science](https://github.com/jongos/style-science) | Make design reasoning, declared constraints and supporting evidence inspectable. | [Project README](https://github.com/jongos/style-science/blob/main/README.md). Its GDC-0 foundation is an early engineering prototype, not a validated model of design quality or automatically an installable skill. |
-| [Spiral](https://github.com/jongos/Spiral) | Rehearse role-limited asynchronous workflows before building; trace knowledge, ownership, waits and recovery. | [`spiral-workflow-rehearsal`](https://github.com/jongos/Spiral/blob/main/skills/spiral-workflow-rehearsal/SKILL.md). Private, research-informed draft; logical rehearsal, not human behavior simulation. |
-| [Shatterstar](https://github.com/jongos/Shatterstar) | Propose reversible, evidence-backed simplification while protecting important tasks, accessibility and rare critical actions. | [`shatterstar-product-simplification`](https://github.com/jongos/Shatterstar/blob/main/skills/shatterstar-product-simplification/SKILL.md). Private, research-informed draft; recommendations do not authorize implementation deletion. |
-
+| [Spiral](https://github.com/jongos/Spiral) | Rehearse role-limited asynchronous workflows before building; trace knowledge, ownership, waits and recovery. | [`spiral-workflow-rehearsal`](https://github.com/jongos/Spiral/blob/main/skills/spiral-workflow-rehearsal/SKILL.md). Public, research-informed draft; logical rehearsal, not human behavior simulation. |
+| [Shatterstar](https://github.com/jongos/Shatterstar) | Propose reversible, evidence-backed simplification while protecting important tasks, accessibility and rare critical actions. | [`shatterstar-product-simplification`](https://github.com/jongos/Shatterstar/blob/main/skills/shatterstar-product-simplification/SKILL.md). Public, research-informed draft; recommendations do not authorize implementation deletion. |
 | [Mojo](https://github.com/jongos/Mojo) | Remove repetition, needless nuance and overly cautious language from AI outputs. | [`mojo-language`](https://github.com/jongos/Mojo/blob/main/skills/mojo-language/SKILL.md). Write clear answers, product copy, instructions and agent updates. |
+| [Colossus](https://github.com/jongos/Colossus) | Audit selected developer workspaces and support restricted, user-approved exact-file cleanup. | [`colossus`](https://github.com/jongos/Colossus/blob/main/skills/colossus/SKILL.md). Rust CLI and Codex/Claude skill. v0.9.0 adds permanent deletion of supported regular files on local Windows NTFS after fresh approval of an exact plan; audits and the separate Python metadata survey remain read-only. Experimental; no redistribution license selected. |
 
-The original five project entries were checked on 2026-10-23; Mojo was added on 2026-10-24. These descriptions are not maturity ratings or compatibility guarantees. Source repositories remain authoritative for current behavior, requirements, releases and validation limits. Private links require repository access; this hub grants none.
+Colossus cleanup scope and public access were checked against GitHub on 2026-10-30. Audit findings are not deletion authorization.
+
+The original five project entries were checked on 2026-10-23; Mojo was added on 2026-10-24. These descriptions are not maturity ratings or compatibility guarantees. Source repositories remain authoritative for current behavior, requirements, releases and validation limits. Spiral, Shatterstar and Colossus public access was verified on 2026-10-30.
 
 ## Optional complementary use
 
@@ -37,6 +39,8 @@ After making a skill available in a compatible host, example requests are:
 - `Use $spiral-workflow-rehearsal to trace this approval workflow using only each role's visible information.`
 - `Use $shatterstar-product-simplification to assess these duplicate views while preserving comparison, export and recovery.`
 
+- `Use $colossus to audit this explicitly selected developer workspace. Do not execute cleanup.`
+
 - `Use $mojo-language to cut repetition, needless nuance and overly cautious language from this output.`
 
 For Style Science, begin with its README and integration documentation. There is no collection-wide skill identifier, universal installer or implied permission to change an application, run experiments or send external messages.
@@ -49,8 +53,8 @@ Keep source, issues and releases in the individual repositories. To update this 
 
 ## Landing Page Source
 
-[Preview source](docs/index.html) · [Design notes](docs/DESIGN.md). The responsive static page is checked in but not publicly deployed. To preview a local checkout with Python available, run `python -m http.server 8000 --bind 127.0.0.1 --directory docs` and open `http://127.0.0.1:8000`. No installation is needed for the site itself.
+[Preview source](docs/index.html) Â· [Design notes](docs/DESIGN.md). The responsive static page is checked in but not publicly deployed. To preview a local checkout with Python available, run `python -m http.server 8000 --bind 127.0.0.1 --directory docs` and open `http://127.0.0.1:8000`. No installation is needed for the site itself.
 
 The page uses original vector illustrations and locally bundled Inter and League Gothic fonts, with their notices in `docs/fonts/`. Public hosting or Pages configuration requires a separate publication decision; repository visibility remains unchanged.
 
-[Desktop preview](docs/previews/desktop.jpg) · [Mobile preview](docs/previews/mobile.jpg) · [Validation scope](docs/VALIDATION.md)
+[Desktop preview](docs/previews/desktop.jpg) Â· [Mobile preview](docs/previews/mobile.jpg) Â· [Validation scope](docs/VALIDATION.md)
